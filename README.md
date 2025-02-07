@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning advanced backend architectures and DevOps<br>🎯 Goals: Build scalable and efficient web applications<br>🎲 Fun fact: I once fixed a bug by accident and never found out how! 🤷‍♂️</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning advanced front end architectures and patterns on React.js ecosystem</p>
 
 ###
 
@@ -29,7 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
