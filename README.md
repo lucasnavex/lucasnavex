@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning advanced front end architectures and patterns on React.js ecosystem</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning advanced front end architectures and patterns on React.js ecosystem</p>
 
 ###
 
